@@ -1,0 +1,75 @@
+html, body {
+    font-family: 'Orbitron', sans-serif;
+}
+
+.fnt {
+   src: url("Boroujerd-in-the-map.jpeg");
+}
+
+#title1 {
+    background: greenyellow;
+    font: bold;
+    margin: 10px 200px;
+    padding: 20px;
+    padding-left: 290px;
+}
+
+#title2 {
+    background: skyblue;
+    margin: 10px auto;
+    padding: 10px;
+    padding-left: 290px;
+
+}
+
+#background-img {
+    margin: 0px 0px 20px 0px;
+}
+
+#part2 {
+   margin-top: 50px; 
+}
+
+.part3 {
+    background-color: pink;
+    display: flex;
+    margin: 20px auto;
+    padding: 20px;
+}
+
+.pic {
+    border-radius: 60%;  
+}
+
+.ttl {
+    display: inline-flex;
+    margin-left: 80px;
+}
+
+.expln {
+   display: inline-flex;
+   margin-left: 80px;
+}
+
+#part4 {
+    margin: 50px 200px;
+    padding: 30px;
+    background: skyblue;
+    display: flex;
+}
+
+#profile {
+   width: 200px;
+   height: 250px; 
+}
+
+#tl {
+   font: bold;
+   margin-left: 100px;
+}
+
+#column2 {
+    padding: 30px;
+    direction: center;
+    margin-left: 100px;
+}
